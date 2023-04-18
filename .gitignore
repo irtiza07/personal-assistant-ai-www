@@ -1,0 +1,4 @@
+# Directories
+/client/node_modules
+/server/env
+/server/generated_index.json
